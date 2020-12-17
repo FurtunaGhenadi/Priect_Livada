@@ -10,10 +10,13 @@ unde recolta e mai mică ca valoarea medie pe livadă, cu puieți noi.
 *******************************************************************************/
 #include <stdio.h>
 #include <iostream>
-     using namespace std;
 #include <math.h>
 #include <conio.h>
 #define n_jos 2
+
+using namespace std;
+
+// comentariiiiiii
 
 int linii, coloane, sector_rau=0;   
  
