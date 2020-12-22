@@ -1,8 +1,8 @@
-# Priect_Livada
+
 ## Proeict creat la „TekWill în fiecare școală”. Modulul C/C++
 ![logo](https://tekwill.online/sites/default/files/styles/frontpage_slider/public/2020-08/Tekwill%20%C3%AEn%20fiecare%20%C8%99coal%C4%83.png?itok=7tZ658ct)
 
-
+# Priect_Livada
 Link la proiect executabil> https://repl.it/@GhenadiFurtuna/vector#main.c
 1. Scopul ():
 Agricultorul Iurii are o livadă împărţită în n*m sectoare (2 < n< 100;2 < m < 100), dispuse pe n linii, numerotate de la 1 la n şi m coloane, numerotate de la 1 la m. În fiecare sector se află 3 copaci de nuci. După recoltarea nucilor el a comparat datele cu anii precedenţi, a observat că profitul, care îl aduce livada, an de an scade. 
