@@ -1,5 +1,7 @@
 # Priect_Livada
 ## Proeict creat la „TekWill în fiecare școală”. Modulul C/C++
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftekwillinfiecarescoala%2Fvideos%2Flansarea-programului-de-formare-continua-a-cadrelor-didactice-cu-privire-la-disc%2F320580692637037%2F&psig=AOvVaw3GtXBtQlzevpTMFxpWpn8P&ust=1608744907607000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiDtPuP4u0CFQAAAAAdAAAAABAD)
+
 
 Link la proiect executabil> https://repl.it/@GhenadiFurtuna/vector#main.c
 1. Scopul ():
@@ -22,7 +24,7 @@ recolta de pe fiecare sector
 4. Concluzii ()
 
 cum includem o imagine :
-(![Orar cl 12](https://user-images.githubusercontent.com/76126043/102916230-e18a1d00-448b-11eb-9f81-d481e321e189.jpg)
+![Orar cl 12](https://user-images.githubusercontent.com/76126043/102916230-e18a1d00-448b-11eb-9f81-d481e321e189.jpg)
 
 cum includem un link :
 [link la un video](https://youtu.be/87VejNS4Kao?list=PLPt04gPdWsRV3rAmaxobOwg3SUf1NX4K4)
