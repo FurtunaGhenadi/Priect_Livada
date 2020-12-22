@@ -1,3 +1,8 @@
+cum includem o imagine :
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.publika.md%2Fun-fotograf-creeaza-opere-de-arta-cu-ajutorul-luminii-imagini-uimitoare_2971857.html&psig=AOvVaw0VdO545SKn-jW5aZmPnVpT&ust=1608743065480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCB4fOJ4u0CFQAAAAAdAAAAABAN)
+
+
+
 # Priect_Livada
 ## Proeict creat la „TekWill în fiecare școală”. Modulul C/C++
 
@@ -20,7 +25,4 @@ recolta de pe fiecare sector
       sau explicație pe pași
 3. scrin-uri cum rulează aplicația;
 4. Concluzii ()
-//-------------------------------
-cum includem o imagine :
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.de%2Fpin%2F768848967612383110%2F%3Fsend%3Dtrue&psig=AOvVaw0VdO545SKn-jW5aZmPnVpT&ust=1608743065480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCB4fOJ4u0CFQAAAAAdAAAAABAD)
-//-------------------------------
+
