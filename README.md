@@ -1,5 +1,6 @@
 cum includem o imagine :
-![ARAR](https://user-images.githubusercontent.com/76126043/102915384-6411dd00-448a-11eb-870c-a3f6095e12d4.jpg)
+(![Orar cl 12](https://user-images.githubusercontent.com/76126043/102916230-e18a1d00-448b-11eb-9f81-d481e321e189.jpg)
+
 cum includem un link :
 [link la un video](https://youtu.be/87VejNS4Kao?list=PLPt04gPdWsRV3rAmaxobOwg3SUf1NX4K4)
 
