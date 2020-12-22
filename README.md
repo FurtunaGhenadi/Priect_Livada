@@ -1,6 +1,6 @@
 # Priect_Livada
 ## Proeict creat la „TekWill în fiecare școală”. Modulul C/C++
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftekwillinfiecarescoala%2Fvideos%2Flansarea-programului-de-formare-continua-a-cadrelor-didactice-cu-privire-la-disc%2F320580692637037%2F&psig=AOvVaw3GtXBtQlzevpTMFxpWpn8P&ust=1608744907607000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiDtPuP4u0CFQAAAAAdAAAAABAD)
+![logo](https://tekwill.online/sites/default/files/styles/frontpage_slider/public/2020-08/Tekwill%20%C3%AEn%20fiecare%20%C8%99coal%C4%83.png?itok=7tZ658ct)
 
 
 Link la proiect executabil> https://repl.it/@GhenadiFurtuna/vector#main.c
