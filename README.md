@@ -1,10 +1,3 @@
-cum includem o imagine :
-(![Orar cl 12](https://user-images.githubusercontent.com/76126043/102916230-e18a1d00-448b-11eb-9f81-d481e321e189.jpg)
-
-cum includem un link :
-[link la un video](https://youtu.be/87VejNS4Kao?list=PLPt04gPdWsRV3rAmaxobOwg3SUf1NX4K4)
-
-
 # Priect_Livada
 ## Proeict creat la „TekWill în fiecare școală”. Modulul C/C++
 
@@ -27,4 +20,10 @@ recolta de pe fiecare sector
       sau explicație pe pași
 3. scrin-uri cum rulează aplicația;
 4. Concluzii ()
+
+cum includem o imagine :
+(![Orar cl 12](https://user-images.githubusercontent.com/76126043/102916230-e18a1d00-448b-11eb-9f81-d481e321e189.jpg)
+
+cum includem un link :
+[link la un video](https://youtu.be/87VejNS4Kao?list=PLPt04gPdWsRV3rAmaxobOwg3SUf1NX4K4)
 
