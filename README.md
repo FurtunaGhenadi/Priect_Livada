@@ -1,7 +1,7 @@
 cum includem o imagine :
 ![ARAR](https://user-images.githubusercontent.com/76126043/102915384-6411dd00-448a-11eb-870c-a3f6095e12d4.jpg)
 cum includem un link :
-[](https://youtu.be/87VejNS4Kao?list=PLPt04gPdWsRV3rAmaxobOwg3SUf1NX4K4)
+[link la un video](https://youtu.be/87VejNS4Kao?list=PLPt04gPdWsRV3rAmaxobOwg3SUf1NX4K4)
 
 
 # Priect_Livada
